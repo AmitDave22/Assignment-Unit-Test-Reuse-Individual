@@ -1,0 +1,7 @@
+pepe:CSE240
+pepe:CSE515
+yaya:CSE240
+yaya:CSE501
+Inst1:CSE515
+Inst1:CSE240
+Inst1:CSE501
